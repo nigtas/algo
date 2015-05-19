@@ -1,0 +1,14 @@
+a b c d e f g h 
+a b 50
+a c 50
+a d 50
+b d 50
+b e 70
+b f 50
+c d 70
+c g 70
+c h 120
+d f 60
+e f 70
+f h 60
+g h 70
